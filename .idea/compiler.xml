@@ -9,5 +9,9 @@
         <module name="intro-junit" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="jquick-intro" target="1.8" />
+      <module name="testes-propriedades" target="9" />
+    </bytecodeTargetLevel>
   </component>
 </project>
